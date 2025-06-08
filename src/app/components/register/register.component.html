@@ -1,0 +1,24 @@
+<div class="register-container">
+  <h2>Registrarse</h2>
+  <form (ngSubmit)="register()">
+    <div class="form-group">
+      <label for="name">Nombre</label>
+      <input id="name" type="text" [(ngModel)]="name" name="name" required />
+    </div>
+    <div class="form-group">
+      <label for="email">Correo electrónico</label>
+      <input id="email" type="email" [(ngModel)]="email" name="email" required />
+    </div>
+    <div class="form-group">
+      <label for="password">Contraseña</label>
+      <input id="password" type="password" [(ngModel)]="password" name="password" required />
+    </div>
+    <div class="form-group">
+      <label for="confirmPassword">Confirmar Contraseña</label>
+      <input id="confirmPassword" type="password" [(ngModel)]="confirmPassword" name="confirmPassword" required />
+    </div>
+    <button type="submit">Registrarse</button>
+    <div *ngIf="showError" class="error">Por favor, completa todos los campos.</div>
+    <div *ngIf="showPasswordMismatch" class="error">Las contraseñas no coinciden.</div>
+  </form>
+</div>
