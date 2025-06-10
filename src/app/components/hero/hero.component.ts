@@ -123,7 +123,7 @@ import { CommonModule } from '@angular/common';
                   
                   <!-- Price -->
                   <div class="bg-cafe-orange/20 rounded-xl p-4 mb-6">
-                    <div class="text-3xl font-bold text-cafe-orange">Bs. 35-45</div>
+                    <div class="text-3xl font-bold text-cafe-orange">Bs. 40</div>
                     <div class="text-sm text-cafe-cream/70">250g - Grano entero</div>
                   </div>
 

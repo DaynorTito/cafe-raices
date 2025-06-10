@@ -42,7 +42,7 @@ import { CommonModule } from '@angular/common';
               </span>
             </div>
             <div class="relative overflow-hidden">
-              <img src="/assets/images/premium-coffee.jpg" alt="Café Premium" 
+              <img src="/assets/cafe-molido1.jpg" alt="Café Premium" 
                    class="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-700">
               <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </div>
@@ -57,7 +57,7 @@ import { CommonModule } from '@angular/common';
               <div class="flex items-center justify-between mb-4">
                 <div class="flex items-center space-x-2">
                   <span class="text-[#A89F91] text-sm line-through">Bs. 50</span>
-                  <span class="text-[#8B2E3C] font-bold text-xl">Bs. 35-45</span>
+                  <span class="text-[#8B2E3C] font-bold text-xl">Bs. 40</span>
                 </div>
                 <div class="flex text-[#D2A679]">
                   <span>⭐⭐⭐⭐⭐</span>
@@ -77,7 +77,7 @@ import { CommonModule } from '@angular/common';
               </span>
             </div>
             <div class="relative overflow-hidden">
-              <img src="/assets/images/origin-coffee.jpg" alt="Café Origen Único" 
+              <img src="/assets/cafe-molido2.jpg" alt="Café Origen Único" 
                    class="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-700">
               <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </div>
@@ -92,7 +92,7 @@ import { CommonModule } from '@angular/common';
               <div class="flex items-center justify-between mb-4">
                 <div class="flex items-center space-x-2">
                   <span class="text-[#A89F91] text-sm line-through">Bs. 80</span>
-                  <span class="text-[#8B2E3C] font-bold text-xl">Bs. 55-70</span>
+                  <span class="text-[#8B2E3C] font-bold text-xl">Bs. 60</span>
                 </div>
                 <div class="flex text-[#D2A679]">
                   <span>⭐⭐⭐⭐⭐</span>
@@ -112,7 +112,7 @@ import { CommonModule } from '@angular/common';
               </span>
             </div>
             <div class="relative overflow-hidden">
-              <img src="/assets/images/espresso-coffee.jpg" alt="Café Espresso" 
+              <img src="/assets/cafe-molido3.avif" alt="Café Espresso" 
                    class="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-700">
               <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </div>
@@ -127,7 +127,7 @@ import { CommonModule } from '@angular/common';
               <div class="flex items-center justify-between mb-4">
                 <div class="flex items-center space-x-2">
                   <span class="text-[#A89F91] text-sm line-through">Bs. 55</span>
-                  <span class="text-[#8B2E3C] font-bold text-xl">Bs. 38-48</span>
+                  <span class="text-[#8B2E3C] font-bold text-xl">Bs. 40</span>
                 </div>
                 <div class="flex text-[#D2A679]">
                   <span>⭐⭐⭐⭐⭐</span>
