@@ -113,7 +113,7 @@ import { CommonModule } from '@angular/common';
   <div class="relative group">
     <div class="absolute inset-0 bg-gradient-to-r from-[#D2A679] to-[#A89F91] rounded-2xl blur-xl opacity-25 group-hover:opacity-40 transition-opacity duration-300"></div>
     <div class="relative bg-white p-4 rounded-2xl shadow-2xl">
-      <img src="./assets/blends-scaled.jpg" 
+      <img src="assets/blends-scaled.jpg" 
            alt="Nuestro Proceso de Café" 
            class="w-full h-80 object-cover rounded-xl shadow-lg">
       
