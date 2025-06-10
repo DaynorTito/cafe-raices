@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
       <!-- Background Image with Parallax Effect -->
       <div class="absolute inset-0 z-0">
         <img 
-          src="/assets/sub-blog-tipos-de-cafe-en-grano.avif" 
+          src="./assets/sub-blog-tipos-de-cafe-en-grano.avif" 
           alt="Tipos de café en grano" 
           class="w-full h-full object-cover scale-110 transform transition-transform duration-1000 ease-out hero-parallax"
         />
